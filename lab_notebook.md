@@ -101,7 +101,7 @@ We have done some research on our choice of microcontroller, PIC16, and realized
 
 ## 4/6/2024
 ### Components Arrived
-Most of our components arrived by today, and Nava went ahead to soldier ESP32 chip onto the PCB, but we realized that it is way too small, plus we have no way of testing it. So we decided to purchase ESP32 dev module so that we could test code on breadboards first, and they also have bluetooth and wifi built in, saving us a lot of work connecting new components.
+Most of our components arrived by today, and Laurenz went ahead to soldier ESP32 chip onto the PCB, but we realized that it is way too small, plus we have no way of testing it. So we decided to purchase ESP32 dev module so that we could test code on breadboards first, and they also have bluetooth and wifi built in, saving us a lot of work connecting new components.
 
   
 
@@ -160,7 +160,7 @@ During the mock demo, we show our TA what we have right now, and demonstrated al
 ### Finishing Up
 My teammates wrote some more logic for our dock since it is our most complicated part and needs a lot of logic to control all 3 parts. It is causing some issues with stuff we had working before. So we stepped through the code, and identified where the issue is. We then wired up the buttons we need for the dock, and programmed for them too to fulfill our high-level requirements.
 
-Me and Eric also did thorough testing to make sure that we hit all the requirements, and everything works as intended, then we took a video of the working breadboard version. While Nava kept working on soldering PCB components, and trying to make it happen.
+Me and Eric also did thorough testing to make sure that we hit all the requirements, and everything works as intended, then we took a video of the working breadboard version. While Laurenz kept working on soldering PCB components, and trying to make it happen.
 
 
 ## 4/24/2024
